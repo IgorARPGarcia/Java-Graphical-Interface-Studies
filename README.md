@@ -14,7 +14,7 @@
       <img src="Prints/Window2ChoiceColors.png">
 </section>
 
-<section>
+<section align=center>
   <h2>Resolvidos</h2>
     <h4>Mouse Action</h4>
       <img src="Prints/MouseAction.png">
