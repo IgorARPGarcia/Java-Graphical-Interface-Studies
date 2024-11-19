@@ -12,7 +12,7 @@ public class IMC implements ActionListener{
         JLabel weightLabel = new JLabel("Type your weight in kg: ");
         JTextField weightText = new JTextField();
 
-        JLabel heightLabel = new JLabel("Type your height in cm:");
+        JLabel heightLabel = new JLabel("Type your height in m:");
         JTextField heightText = new JTextField();
 
         JButton calculateButton = new JButton("Calculate");
