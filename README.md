@@ -1,4 +1,4 @@
 <section>
-  <img src="Prints/IMC.png">
+  <img src="Prints/IM.png">
   <img src="">
 </section>
