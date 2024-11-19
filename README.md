@@ -1,6 +1,6 @@
-<section align=center style=padding-block-end: 30px;>
+<section align=center>
   <h2>Propostos<h2>
-    <h4>Calculator<h4>
+    <h4 style=padding-block-end: 1.25rem;>Calculator<h4>
       <img src="Prints/Calculator.png">
     <h4>IMC<h4>
       <img src="Prints/IMC.png">
