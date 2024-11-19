@@ -1,4 +1,4 @@
-<section align=center class="sectionEx">
+<section align=center>
   <h2>Propostos<h2>
     <h4>Calculator<h4>
       <img src="Prints/Calculator.png">
@@ -26,7 +26,3 @@
       <img src="Prints/TaskManager.png">
 </section>
 
-.sectionEx
-{
-  padding-block-start: 10px;
-}
