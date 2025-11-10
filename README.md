@@ -1,3 +1,13 @@
+<div>
+  <h2>Interfaces gráficas em Java</h2>
+  <p>
+    Desenvolvi alguns exercícios acadêmicos focados em interfaces gráficas em Java. Foi um projeto crucial para
+    aprimorar meu conhecimento na linguagem e evoluir no desenvolvimento Full Stack. Essa experiência me
+    permitiu entender melhor a criação de interfaces interativas e consolidar conceitos importantes no
+    desenvolvimento de aplicações completas.
+  </p>
+</div>
+
 <section align=center>
   <h2>Propostos<h2>
     <h4>Calculator<h4>
