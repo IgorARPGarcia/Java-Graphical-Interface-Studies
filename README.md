@@ -8,8 +8,8 @@
   </p>
 </div>
 
-<dib align=center>
-  <h2>Propostos<h2>
+<div align=center>
+  <h1>Propostos<h1>
     <h3>Calculator<h3>
       <img src="Prints/Calculator.png">
     <h3>IMC<h3>
